@@ -1,122 +1,17 @@
 [
-{
- "id":"1",
- "name":"ရွှေစည်းခုံ စေတီတော် (ပုဂံ)",
- "lat": 21.1953243,
- "log": 94.8939924,
- "about":"ပုဂံပြည်အနော်ရထာမင်းလက်ထက်တွင် သီဟိုဠ်ကျွန်း၏ဘုရင် ပထမဝိဇယဗာဟု မင်းကြီး၏ အကူအညီတောင်းခြင်းကြောင့် ရဟန်းသံဃာတော်များ၊ ပိဋကတ်သုံးပုံ ကျမ်းစာများနှင့် ဆင်ဖြူတော်တစ်စီးတို့ကို အကူအညီပေးခဲ့သည်။ ပထမ ဝိဇယဗာဟုမင်းကလည်း အနော်ရထာမင်း၏ ကျေးဇူးကိုတုံ့ပြန်သော်အားဖြင့် မြတ်စွာဘုရား၏ စွယ်တော်ပွားကို အနော်ရထာမင်းထံ ဓမ္မလက်ဆောင်ပြန်လည် ပေးပို့ခဲ့သည်။ အနော်ရထာမင်းကြီးသည် စွယ်တော်မြတ်ကို နန်းတော်ရှေ့ ရတနာပြသာဒ်တွင် ကိန်းဝပ်စေပြီး ပူဇော် ဝတ်ပြုခဲ့သည်။ ထိုအခါ မင်းဆရာဖြစ်သော ရှင်အရဟံမထေရ်က သတ္တဝါအားလုံး ကိုးကွယ်နိုင်စေရန် စေတီတည်ပါဟု မင်းကြီးအား အကြံဉာဏ်ပေးခဲ့သည်။",
- "image":[
- "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Shwezigon.jpg/440px-Shwezigon.jpg",
- "https://upload.wikimedia.org/wikipedia/commons/1/12/Shwezigon_1855.jpg"
- ],
- "location":"ညောင်ဦး၊ မန္တလေးတိုင်းဒေသကြီး"
-},
-
-{
- "id":"2",
- "name":"အလိုတော်ပြည့်ဂူဘုရား",
- "lat": 21.1767286,
- "log": 94.8827362,
- "about":"အလိုတော်ပြည့် ဂူဘုရားသည် မြန်မာနိုင်ငံ၊ မန္တလေးတိုင်းဒေသကြီး၊ ပုဂံရှိ အနော်ရထာလမ်းမကြီး၊ မြောက်ဘက်ခြမ်း၊ ထီးလိုမင်းလိုဘုရား၏ အရှေ့တောင်အရပ်တွင် တည်ရှိသည်။",
- "image":[
- "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Alodawpyi_Pagoda.jpg/440px-Alodawpyi_Pagoda.jpg"
- ],
- "location":"ပုဂံ၊ မန္တလေးတိုင်းဒေသကြီး"
-},
-
-{
- "id":"3",
- "name":"ထီးလိုမင်းလိုဘုရား",
- "lat": 21.1787452,
- "log": 94.879456,
- "about":"ထီးလိုမင်းလိုဘုရားသည် မြန်မာနိုင်ငံ၊ မန္တလေးတိုင်းဒေသကြီး၊ ပုဂံရှိ ဂူဘုရားတစ်ဆူ ဖြစ်ပြီး ပုဂံ-ညောင်ဦးကားလမ်းဘေးတွင် တည်ရှိလေသည်။ ထီးလိုမင်းလိုဘုရားသည် ကွမ်းတောင်ပေါက်လိုဏ် သုံးဆင့်ဂူဘုရား ဖြစ်ပြီး (၁၈)မတ်(၁၂၀၈) တွင် ဇေယျသိင်္ခ နာတောင်မျာမင်း (ထီးလိုမင်းလို) အေဒီ (၁၂၁၁-၁၂၃၁) တည်ခဲ့သည်။",
- "image":[
- "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Htilominlo_Temple_Bagan_Myanmar.jpg/500px-Htilominlo_Temple_Bagan_Myanmar.jpg"
- ],
- "location":"ပုဂံ၊ မန္တလေးတိုင်းဒေသကြီး"
-},
-
-
-{
- "id":"4",
- "name":"အာနန္ဒာဘုရား",
- "lat": 21.1710636,
- "log": 94.8676877,
- "about":"အာနန္ဒာဘုရားသည် မြန်မာနိုင်ငံ၊ မန္တလေးတိုင်းဒေသကြီး၊ ပုဂံတွင် တည်ရှိသည်။ စေတီပုထိုးအမှတ်မှာ ၂၁၇၁ ဖြစ်သည်။ အာနန္ဒာစေတီကို ပုဂံခေတ် ကျန်စစ်သားမင်းလက်ထက် (အေဒီ ၁၀၉၀) တွင် ဆောက်လုပ်ခဲ့သည်။ ကျန်စစ်သားမင်းလက်ထက်တွင် ဟိမဝန္တာ နန္ဒမူလိုဏ်ဂူမှ ရဟန္တာများ ကြွရောက်လာသည်။ ထိုရဟန္တာအရှင်သူမြတ်များ၏ ပြောပြချက်ကြောင့် နန္ဒမူလိုဏ်ဂူကို သဘောကျကာ နန္ဒမူလိုဏ်ဂူကဲ့သို့ အာနန္ဒာစေတီကို တည်တော်မူသည်။ ",
- "image":[
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ananda_Temple_Bagan.jpg/440px-Ananda_Temple_Bagan.jpg",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ananda-Temple-2.JPG/1920px-Ananda-Temple-2.JPG"
- ],
- "location":"ပုဂံ၊ မန္တလေးတိုင်းဒေသကြီး"
-},
-
-
-{
- "id":"5",
- "name":"ကန်တော့ပလ္လင်ဘုရား",
- "lat": 21.1700199,
- "log": 94.85652,
- "about":"ကန်တော့ပလ္လင်ဘုရားသည် မြန်မာနိုင်ငံ၊ မန္တလေးတိုင်းဒေသကြီး၊ ပုဂံတွင် တည်ရှိသော ရှေးဟောင်းဘုရား တစ်ဆူဖြစ်သည်။ ရှေးက ဂေါဓပလ္လင် ဟုလည်းခေါ်သည်။",
- "image":[
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Gawdawpalin_Temple_Bagan_Myanmar.jpg/440px-Gawdawpalin_Temple_Bagan_Myanmar.jpg",
-  "https://upload.wikimedia.org/wikipedia/commons/4/4f/Gaw-Daw-Palin_Temple.jpg",
-  "https://upload.wikimedia.org/wikipedia/commons/e/e1/Gaw-Daw-Palin_History.jpg"
-  ],
- "location":"ပုဂံ၊ မန္တလေးတိုင်းဒေသကြီး"
-},
-
-{
- "id":"6",
- "name":"သဗ္ဗညုဘုရား(ပုဂံ)",
- "lat": 21.1688146,
- "log": 94.8629217,
- "about":"သဗ္ဗညုဘုရား သည် မြန်မာနိုင်ငံ၊ မန္တလေးတိုင်းဒေသကြီး၊ ပုဂံတွင် တည်ရှိသည်။ ပုဂံနန်းမြို့ရိုး အတွင်း အာနန္ဒာ လိုဏ်ဂူတော်ဘုရားကြီး၏ အနောက်တောင် ယွန်းယွန်း ကိုက် ၅၀ဝ ခန့် အကွာတွင် တည်ရှိသည်။ သဗ္ဗညု လှိုဏ်ဂူတော် ဘုရားကြီးသည် လှည်းဝင်ရိုးသံ တညံညံ ပုဂံဘုရားတွင် ထုထည်ကြီးမားသော ဘုရားကြီးများအနက် ထင်ရှားကျော်ကြားသော ဘုရားတစ်ဆူပင် ဖြစ်သည်။ ဉာဏ်တော် ပေ (၂၀၀)ကျော် မြင့်သဖြင့် အခြားဘုရားပုထိုးများ အကြားတွင် ထီးထီးမားမားကြီး တည်ရှိနေသည်။ သဗ္ဗညုဟူသော ဝေါဟာရကို ပုဂံခေတ် ရေးထိုးကျောက်စာများတွင် သိစပ်မြင်နှံ့ ဟူ၍ ပြန်ဆိုရေးသားလေ့ ရှိသဖြင့် ဗုဒ္ဓဘုရားသခင်၏ အလုံးစုံကို သိမြင်တော်မူသော သဗ္ဗညုတ ဉာဏ်တော်ကို အာရုံပြုခေါ်ဝေါ် သမုတ်သည်ဟု ယူဆကြသည်။",
- "image":[
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/That-byin-nyu.jpg/1024px-That-byin-nyu.jpg",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Bagan_130.jpg/440px-Bagan_130.jpg",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Thatbyinnyu_temple_%28122635%29.jpg/240px-Thatbyinnyu_temple_%28122635%29.jpg"
-  ],
- "location":"ပုဂံ၊ မန္တလေးတိုင်းဒေသကြီး"
-},
-
-{
- "id":"7",
- "name":"ဗူးဘုရား",
- "lat": 21.1763128,
- "log": 94.857903,
- "about":"ဗူးဘုရားသည် မြန်မာနိုင်ငံ၊ မန္တလေးတိုင်းဒေသကြီး၊ ပုဂံမြို့အနီး ဧရာဝတီမြစ် ကမ်းနဖူး၌ တည်ရှိပြီး မြစ်ကမ်းစပ်တွင် ခရုပတ်သဖွယ် စိန်တန်းနှစ်သွယ်နှင့် တည်ဆောက်ထားသည်။ စေတီပုထိုးအမှတ်မှာ ၁၆၅၇/၉၆၁ ဖြစ်သည်။",
- "image":[
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bue_Pagoda_at_Bagan.jpg/1024px-Bue_Pagoda_at_Bagan.jpg",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Buefaya_and_beach.jpg/2560px-Buefaya_and_beach.jpg",
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Pumpkin_Pagoda_-Bupaya_Pagoda-%2C_Pagan%2C_Upper_Burma.jpg/2560px-Pumpkin_Pagoda_-Bupaya_Pagoda-%2C_Pagan%2C_Upper_Burma.jpg"
-  ],
- "location":"ပုဂံ၊ မန္တလေးတိုင်းဒေသကြီး"
-},
-
-{
- "id":"8",
- "name":"ရွှေဆံတော်စေတီ (ပုဂံ)",
- "lat": 21.1637939,
- "log": 94.8660814,
- "about":"ရွှေဆံတော် စေတီသည် မြန်မာနိုင်ငံ၊ မန္တလေးတိုင်းဒေသကြီး၊ ပုဂံတွင် တည်ရှိသည်။ အေဒီ ၁၀၅၇ ရွှေဆံတော် စေတီကို အနော်ရထာမင်း တည်ထားကိုးကွယ်ခဲ့သည်။ မြတ်စွာဘုရားရှင်၏ ဆံတော်ဓာတ်ကို ဌာပနာ၍ တည်ထားကိုးကွယ်ခဲ့ခြင်း ဖြစ်သည်။",
- "image":[
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Shwesandaw_Pagoda_Bagan_Myanmar.jpg/1024px-Shwesandaw_Pagoda_Bagan_Myanmar.jpg"
-  ],
- "location":"ပုဂံ၊ မန္တလေးတိုင်းဒေသကြီး"
-},
-
-
-{
- "id":"9",
- "name":"ဓမ္မရံကြီးဘုရား",
- "lat": 21.1620185,
- "log": 94.8731335,
- "about":"ဓမ္မရံကြီးဘုရားသည် မြန်မာနိုင်ငံ၊ မန္တလေးတိုင်းဒေသကြီး၊ ပုဂံတွင် တည်ရှိသည်။ ဓမ္မရံကြီးဘုရား(ဘုရားအမှတ်-၇၇၁) သည် ကွမ်းတောင်ပေါက် လိုဏ်တစ်ဆင့်ဂူ ဘုရားကြီးဖြစ်ပြီး အေဒီ (၁၁၆၅)တွင် နရသူမင်း (ခ) ကုလားကျမင်း အေဒီ (၁၁၆၃-၁၁၆၅) တည်ခဲ့သည်။ ထု-ဓမ္မရံ၊ ဉာဏ်-သဗ္ဗညု၊ အနု-အာနန္ဒာ၊ တန်ခိုး- ရွှေစည်းခုံ ဟူသော အဆိုအရ ဓမ္မရံကြီးဘုရားသည် ပုဂံဒေသတွင် ထုထည် အကြီးဆုံး ရှေးဟောင်းဘုရားတစ်ဆူ ဖြစ်သည်။",
- "image":[
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dhammayangyi_Temple_at_Bagan%2CMyanmar.jpg/600px-Dhammayangyi_Temple_at_Bagan%2CMyanmar.jpg",
-  "https://my.wikipedia.org/wiki/%E1%80%93%E1%80%99%E1%80%B9%E1%80%99%E1%80%9B%E1%80%B6%E1%80%80%E1%80%BC%E1%80%AE%E1%80%B8%E1%80%98%E1%80%AF%E1%80%9B%E1%80%AC%E1%80%B8#/media/%E1%80%96%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA:Dhammayangyi-Bagan-Myanmar-01-gje.jpg"
-  ],
- "location":"ပုဂံ၊ မန္တလေးတိုင်းဒေသကြီး"
-}
-
+ {
+  "grade_name":"Grade 1",
+  "books":[
+   {
+    "name":"စာရိတ္တနှင့်ပြည့်သူ့နီတိ",
+    "image":"https://raw.githubusercontent.com/htetwaiyan/bagan_json/master/g1_mc.png",
+    "pdf": "https://raw.githubusercontent.com/htetwaiyan/bagan_json/master/g1_mc.pdf"
+   },
+   {
+    "name":"လူမှုရေး",
+    "image":"https://raw.githubusercontent.com/htetwaiyan/bagan_json/master/g1_social.png",
+    "pdf": "https://raw.githubusercontent.com/htetwaiyan/bagan_json/master/g1_social.pdf"
+   }
+   ]
+ }
 ]
